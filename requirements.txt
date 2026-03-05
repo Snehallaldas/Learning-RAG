@@ -1,0 +1,6 @@
+langchain
+langchain-community
+langchain_text_splitters
+langchain-mistralai
+langchain_chroma
+python_dotenv
